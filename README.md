@@ -22,3 +22,5 @@ Work with
 
 ### How to use
 - Gen new SMBIOS using [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
+
+Thank for [Dortania](https://dortania.github.io/OpenCore-Install-Guide/)
