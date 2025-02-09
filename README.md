@@ -6,7 +6,7 @@ OpenCore 1.0.3<br>
 
 ### "Clean, Fast and Stable"
 
-Work with 
+<br>Work with 
 - Monterey
 - Ventura
 - Sonoma
