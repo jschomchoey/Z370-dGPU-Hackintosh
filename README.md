@@ -4,8 +4,8 @@ Mac Pro 7,1<br>
 OpenCore 1.0.3<br>
 ![Screenshot 2025-02-09 at 11 01 29 PM](https://github.com/user-attachments/assets/a1966262-9086-46e0-9293-8540123b275e)
 
-
 ### "Clean, Fast and Stable"
+
 Work with 
 - Monterey
 - Ventura
