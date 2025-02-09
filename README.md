@@ -12,6 +12,7 @@ OpenCore 1.0.3
 - Wi-Fi / Bluetooth : Fenvi FV-T919 BCM94360CD (Use OCLP for Wi-Fi)
 
 |Part|Detail|
+| :------: | :----------------------------------------------------------: |
 |CPU|Intel® Core™ I7-8700K|
 |Mainboard|Z370 AORUS ULTRA GAMING 2.0 (rev. 1.0)|
 |GPU|AMD RX 6600 XT 8GB|
