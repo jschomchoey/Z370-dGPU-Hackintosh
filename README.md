@@ -2,13 +2,17 @@
 macOS Sequoia 15.3<br>
 Mac Pro 7,1<br>
 OpenCore 1.0.3<br>
+![Screenshot 2025-02-09 at 11 01 29 PM](https://github.com/user-attachments/assets/a1966262-9086-46e0-9293-8540123b275e)
 
-### "Clean and Stable"
+
+### "Clean, Fast and Stable"
 Work with 
 - Monterey
 - Ventura
 - Sonoma
 - Sequoia
+
+![Screenshot 2025-02-09 at 10 58 18 PM](https://github.com/user-attachments/assets/cef82367-d464-48ae-9d1a-34b61ff5ff7d)
 
 ### Specifications
 |Part|Detail|
