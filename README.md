@@ -1,6 +1,8 @@
 # Z370-dGPU-Hackintosh
 macOS Sequoia 15.3
+
 Mac Pro 7,1
+
 OpenCore 1.0.3
 
 ### Specifications
