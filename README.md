@@ -14,4 +14,4 @@ OpenCore 1.0.3
 |Wi-Fi / Bluetooth|Fenvi FV-T919 BCM94360CD (Use OCLP for Wi-Fi)|
 
 ### How to use
-- Gen new SMBIOS using [GenSMBIOS]([https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#using-macserial](https://github.com/corpnewt/GenSMBIOS))
+- Gen new SMBIOS using [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
