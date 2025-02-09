@@ -3,7 +3,7 @@ macOS Sequoia 15.3<br>
 Mac Pro 7,1<br>
 OpenCore 1.0.3<br>
 
-## Clean and Stable
+### Clean and Stable
 
 ### Specifications
 |Part|Detail|
