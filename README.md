@@ -5,7 +5,7 @@ OpenCore 1.0.3
 
 ### Specifications
 |Part|Detail|
-| --- | --- |
+| :---: | :---: |
 |CPU|Intel® Core™ I7-8700K|
 |Mainboard|Z370 AORUS ULTRA GAMING 2.0 (rev. 1.0)|
 |GPU|AMD RX 6600 XT 8GB|
