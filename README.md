@@ -4,6 +4,11 @@ Mac Pro 7,1<br>
 OpenCore 1.0.3<br>
 
 ### "Clean and Stable"
+Work with 
+- Monterey
+- Ventura
+- Sonoma
+- Sequoia
 
 ### Specifications
 |Part|Detail|
